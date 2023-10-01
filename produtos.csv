@@ -1,0 +1,226 @@
+produtos_id,descricao,tipo
+0245Z,Bermuda infantil 12 ,bermuda
+RAG25,Bermuda infantil 14 ,bermuda
+3656E,Bermuda infantil 16 ,bermuda
+20103,Bermuda jeans F 36 ,bermuda
+0333B,Bermuda jeans F 38 ,bermuda
+RAG23,Bermuda jeans F 40 ,bermuda
+RGL24,Bermuda jeans F 42 ,bermuda
+3068N,Bermuda jeans F 44 ,bermuda
+45647,Bermuda jeans M 36 ,bermuda
+0376E,Bermuda jeans M 38 ,bermuda
+RRM35,Bermuda jeans M 40 ,bermuda
+P1062,Bermuda jeans M 42 ,bermuda
+0844T,Bermuda jeans M 44 ,bermuda
+3377,Bermuda moletom M 36 ,bermuda
+REM32,Bermuda moletom M 38 ,bermuda
+CGM41,Bermuda moletom M 40 ,bermuda
+3083Z,Bermuda moletom M 42 ,bermuda
+3103Z,Bermuda moletom M 44 ,bermuda
+4248N,Boné amarela  ,bone
+REM10,Boné branca  ,bone
+0834T,Boné laranja  ,bone
+2403,Boné verde  ,bone
+44315,Boné vermelha  ,bone
+1857K,Calça jeans F 36 ,calça
+037D8,Calça jeans F 38 ,calça
+0183B,Calça jeans F 40 ,calça
+RAG26,Calça jeans F 42 ,calça
+45747,Calça jeans F 44 ,calça
+45667,Calça jeans infantil 12 ,calça
+RGM24,Calça jeans infantil 14 ,calça
+20123,Calça jeans infantil 16 ,calça
+3135Z,Calça jeans M 36 ,calça
+CGM45,Calça jeans M 38 ,calça
+0185Z,Calça jeans M 40 ,calça
+CNC44,Calça jeans M 42 ,calça
+45387,Calça jeans M 44 ,calça
+CSM13,Calça moletom infantil 12 ,calça
+RGL28,Calça moletom infantil 14 ,calça
+1018N,Calça moletom infantil 16 ,calça
+23503,camiseta amarela G ,camiseta
+CRM51,camiseta amarela M ,camiseta
+0088N,camiseta amarela P ,camiseta
+028D8,camiseta azul G ,camiseta
+20088,camiseta azul M ,camiseta
+2705Z,camiseta azul P ,camiseta
+1135Z,camiseta branca G ,camiseta
+0377K,camiseta branca M ,camiseta
+26603,camiseta branca P ,camiseta
+RGM30,Camiseta infantil 12 ,camiseta
+RGM22,Camiseta infantil 14 ,camiseta
+CNC46,Camiseta infantil 16 ,camiseta
+25402,camiseta laranja G ,camiseta
+0305Z,camiseta laranja M ,camiseta
+0145Z,camiseta laranja P ,camiseta
+CLX54,camiseta longa amarela G ,camiseta
+RLX27,camiseta longa amarela M ,camiseta
+3773,camiseta longa amarela P ,camiseta
+1188N,camiseta longa azul G ,camiseta
+44175,camiseta longa azul M ,camiseta
+25105,camiseta longa azul P ,camiseta
+RAG33,camiseta longa branca G ,camiseta
+0188N,camiseta longa branca M ,camiseta
+3063Z,camiseta longa branca P ,camiseta
+44635,camiseta longa laranja G ,camiseta
+RAG22,camiseta longa laranja M ,camiseta
+DJA08,camiseta longa laranja P ,camiseta
+CRM47,camiseta longa preta G ,camiseta
+REM33,camiseta longa preta M ,camiseta
+53150,camiseta longa preta P ,camiseta
+CGL47,camiseta longa verde G ,camiseta
+20057,camiseta longa verde M ,camiseta
+RGL13,camiseta longa verde P ,camiseta
+CGM47,camiseta longa vermelha G ,camiseta
+PGRRM,camiseta longa vermelha M ,camiseta
+31073,camiseta longa vermelha P ,camiseta
+20122,camiseta preta G ,camiseta
+0373B,camiseta preta M ,camiseta
+20121,camiseta preta P ,camiseta
+25603,camiseta verde G ,camiseta
+RRM27,camiseta verde M ,camiseta
+24603,camiseta verde P ,camiseta
+008F7,camiseta vermelha G ,camiseta
+RAG24,camiseta vermelha M ,camiseta
+1058N,camiseta vermelha P ,camiseta
+3073Z,Casaco  branco F ,casaco
+RGM20,Casaco  branco M ,casaco
+RLX18,Casaco  cinza F ,casaco
+24801,Casaco  cinza M ,casaco
+3777,Casaco  infantil 12 ,casaco
+0283B,Casaco  infantil 14 ,casaco
+034F8,Casaco  infantil 16 ,casaco
+385Z2,Casaco  jeans F ,casaco
+024D8,Casaco  jeans M ,casaco
+635Z2,Casaco  marrom F ,casaco
+0133Z,Casaco  marrom M ,casaco
+22403,Casaco  preto F ,casaco
+008D8,Casaco  preto M ,casaco
+0033Z,Casaco  vermelho F ,casaco
+33113,Casaco  vermelho M ,casaco
+118D8,Chinelo amarela F ,chinelo
+44705,Chinelo amarela M ,chinelo
+6003,Chinelo branca F ,chinelo
+24803,Chinelo branca M ,chinelo
+3373,Chinelo laranja F ,chinelo
+33033,Chinelo laranja M ,chinelo
+44805,Chinelo verde F ,chinelo
+0086E,Chinelo verde M ,chinelo
+20031,Chinelo vermelha F ,chinelo
+0243B,Chinelo vermelha M ,chinelo
+44745,Cropped  amarela G ,cropped
+CAG47,Cropped  amarela M ,cropped
+0085Z,Cropped  amarela P ,cropped
+CGL34,Cropped  azul G ,cropped
+0186E,Cropped  azul M ,cropped
+11303,Cropped  azul P ,cropped
+4018N,Cropped  branca G ,cropped
+RLX24,Cropped  branca M ,cropped
+030D8,Cropped  branca P ,cropped
+27012,Cropped  laranja G ,cropped
+RFL12,Cropped  laranja M ,cropped
+86303,Cropped  laranja P ,cropped
+30703,Cropped  preta G ,cropped
+RGL31,Cropped  preta M ,cropped
+228H3,Cropped  preta P ,cropped
+27400,Cropped  verde G ,cropped
+RLX26,Cropped  verde M ,cropped
+2805Z,Cropped  verde P ,cropped
+26655,Cropped  vermelha G ,cropped
+0187K,Cropped  vermelha M ,cropped
+10503,Cropped  vermelha P ,cropped
+44825,Meia amarela P ,meia
+3255Z,Meia azul M ,meia
+1138N,Meia azul P ,meia
+RAG35,Meia branca M ,meia
+33032,Meia branca P ,meia
+2585Z,Meia laranja P ,meia
+REM13,Meia preta M ,meia
+2305Z,Meia preta P ,meia
+3635Z,Meia verde P ,meia
+0037K,Meia vermelha P ,meia
+6377,Moletom azul G ,moletom
+10103,Moletom azul M ,moletom
+RGL23,Moletom azul P ,moletom
+RSM06,Moletom branco G ,moletom
+034F3,Moletom branco M ,moletom
+3577,Moletom branco P ,moletom
+RTE27,Moletom Com capuz azul G ,moletom
+27600,Moletom Com capuz azul M ,moletom
+45337,Moletom Com capuz azul P ,moletom
+24403,Moletom Com capuz branco G ,moletom
+27150,Moletom Com capuz branco M ,moletom
+4235Z,Moletom Com capuz branco P ,moletom
+RRM20,Moletom com capuz infantil 12 ,moletom
+RGM31,Moletom com capuz infantil 14 ,moletom
+43865,Moletom com capuz infantil 16 ,moletom
+2877,Moletom Com capuz preto G ,moletom
+CAG33,Moletom Com capuz preto M ,moletom
+2873,Moletom Com capuz preto P ,moletom
+0028N,Moletom Com capuz vermelho G ,moletom
+4008N,Moletom Com capuz vermelho M ,moletom
+35032,Moletom Com capuz vermelho P ,moletom
+CGL26,Moletom infantil 12 ,moletom
+CGM40,Moletom infantil 14 ,moletom
+0083B,Moletom infantil 16 ,moletom
+20070,Moletom preto G ,moletom
+RGM13,Moletom preto M ,moletom
+REM22,Moletom preto P ,moletom
+40322,Moletom vermelho G ,moletom
+0035Z,Moletom vermelho M ,moletom
+2355Z,Moletom vermelho P ,moletom
+3078N,Regata amarela G ,regata
+2545Z,Regata amarela M ,regata
+20150,Regata amarela P ,regata
+CEM23,Regata azul G ,regata
+RLX32,Regata azul M ,regata
+CEM26,Regata azul P ,regata
+4236S,Regata branca G ,regata
+033F3,Regata branca M ,regata
+1187K,Regata branca P ,regata
+23403,Regata laranja G ,regata
+33003,Regata laranja M ,regata
+CGM38,Regata laranja P ,regata
+44765,Regata preta G ,regata
+CRM43,Regata preta M ,regata
+CEM48,Regata preta P ,regata
+33013,Regata verde G ,regata
+0033B,Regata verde M ,regata
+RNC28,Regata verde P ,regata
+2315Z,Regata vermelha G ,regata
+26612,Regata vermelha M ,regata
+RGL33,Regata vermelha P ,regata
+18573,Saia curta G ,saia
+RGL27,Saia curta M ,saia
+CAG48,Saia curta P ,saia
+0814R,Saia Jeans G ,saia
+RLX40,Saia Jeans M ,saia
+A6330,Saia Jeans P ,saia
+3235Z,Saia longa G ,saia
+0824R,Saia longa M ,saia
+CTE48,Saia longa P ,saia
+27700,Saia moletom G ,saia
+40353,Saia moletom M ,saia
+33103,Saia moletom P ,saia
+27750,Saia preta G ,saia
+8003,Saia preta M ,saia
+20036,Saia preta P ,saia
+RGM35,Short jeans F 36 ,short
+RGL26,Short jeans F 38 ,short
+RNC32,Short jeans F 40 ,short
+RLX34,Short jeans F 42 ,short
+A7003,Short jeans F 44 ,short
+40350,Tenis amarela F ,tenis
+034H3,Tenis amarela M ,tenis
+RTP06,Tenis branca F ,tenis
+CEM41,Tenis branca M ,tenis
+2565Z,Tenis jeans F ,tenis
+2265Z,Tenis jeans M ,tenis
+4148N,Tenis laranja F ,tenis
+RGL35,Tenis laranja M ,tenis
+32203,Tenis preto e branco F ,tenis
+324D8,Tenis preto e branco M ,tenis
+RTP26,Tenis verde F ,tenis
+RNC18,Tenis verde M ,tenis
+0343B,Tenis vermelha F ,tenis
+2555Z,Tenis vermelha M ,tenis
